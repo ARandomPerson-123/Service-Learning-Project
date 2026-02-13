@@ -5,3 +5,18 @@
     top: 0;
     width: 100%;
 }
+#introduction {
+    color: coral;
+}
+#What-is-it {
+    color: #00FFFF;
+}
+#Combat {
+    color: #6A5ACD;
+}
+#Testimony {
+    color: #FFFF00;
+}
+#conclusion {
+    color: #FFACD0;
+}
