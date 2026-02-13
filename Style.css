@@ -1,23 +1,25 @@
 #Navigation {
-    background-color: #333;
+    background-color: #000000;
     overflow: hidden;
     position: sticky;
     top: 0;
     width: 100%;
-    color: #FFFFFF;
+}
+a {
+    color: #AAAAAA; 
 }
 #introduction {
-    color: coral;
+    background-color: coral;
 }
 #What-is-it {
-    color: #00FFFF;
+    background-color: #00FFFF;
 }
 #Combat {
-    color: #6A5ACD;
+    background-color: #6A5ACD;
 }
 #Testimony {
-    color: #FFFF00;
+    background-color: #FFFF00;
 }
 #conclusion {
-    color: #FFACD0;
+    background-color: #FFACD0;
 }
